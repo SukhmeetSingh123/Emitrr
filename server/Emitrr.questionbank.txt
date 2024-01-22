@@ -1,0 +1,420 @@
+[{
+  "_id": {
+    "$oid": "65ae9c11f156b3e44764b4a0"
+  },
+  "question": "What is the plural of the word 'child'?",
+  "option1": "childs",
+  "option2": "childes",
+  "option3": "children",
+  "option4": "child's",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "children",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9c1cf156b3e44764b4a2"
+  },
+  "question": "Which of the following is a synonym for 'happy'?",
+  "option1": "sad",
+  "option2": "joyful",
+  "option3": "angry",
+  "option4": "miserable",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "joyful",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9c5ef156b3e44764b4a4"
+  },
+  "question": "What is the capital of France?",
+  "option1": "Berlin",
+  "option2": "Madrid",
+  "option3": "Paris",
+  "option4": "Rome",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "Paris",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9c7af156b3e44764b4a6"
+  },
+  "question": "Which planet is known as the 'Red Planet'?",
+  "option1": "Earth",
+  "option2": "Mars",
+  "option3": "Jupiter",
+  "option4": "Venus",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "Mars",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9c96f156b3e44764b4a8"
+  },
+  "question": "What is the capital of Japan?",
+  "option1": "Seoul",
+  "option2": "Tokyo",
+  "option3": "Beijing",
+  "option4": "Bangkok",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "Tokyo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9ca5f156b3e44764b4aa"
+  },
+  "question": "Which is the largest ocean on Earth?",
+  "option1": "Atlantic Ocean",
+  "option2": "Indian Ocean",
+  "option3": "Southern Ocean",
+  "option4": "Pacific Ocean",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "Pacific Ocean",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9cb5f156b3e44764b4ac"
+  },
+  "question": "What is the square root of 25?",
+  "option1": "5",
+  "option2": "6",
+  "option3": "4",
+  "option4": "7",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9cc3f156b3e44764b4ae"
+  },
+  "question": "Who wrote the play 'Romeo and Juliet'?",
+  "option1": "Charles Dickens",
+  "option2": "William Shakespeare",
+  "option3": "Jane Austen",
+  "option4": "Mark Twain",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "William Shakespeare",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9cd6f156b3e44764b4b0"
+  },
+  "question": "What is the currency of Australia?",
+  "option1": "Euro",
+  "option2": "Dollar",
+  "option3": "Pound",
+  "option4": "Yen",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "Dollar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9ce6f156b3e44764b4b2"
+  },
+  "question": "In which year did the Titanic sink?",
+  "option1": "1912",
+  "option2": "1920",
+  "option3": "1905",
+  "option4": "1931",
+  "difficulty": "easy",
+  "languageType": "english",
+  "correctAnswer": "1912",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d32f156b3e44764b4b4"
+  },
+  "question": "कौन सा रंग धूप का प्रकाशमान रंग है?",
+  "option1": "नीला",
+  "option2": "लाल",
+  "option3": "पीला",
+  "option4": "हरा",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "पीला",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d3ef156b3e44764b4b6"
+  },
+  "question": "भारत की राजधानी क्या है?",
+  "option1": "मुंबई",
+  "option2": "कोलकाता",
+  "option3": "दिल्ली",
+  "option4": "चेन्नई",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "दिल्ली",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d4df156b3e44764b4b8"
+  },
+  "question": "गाय का बच्चा कैसे कहलाता है?",
+  "option1": "बछड़ा",
+  "option2": "काला",
+  "option3": "बछेड़ा",
+  "option4": "गोलू",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "बछड़ा",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d5df156b3e44764b4ba"
+  },
+  "question": "सूरज किस दिशा से उगता है?",
+  "option1": "पश्चिम",
+  "option2": "पूर्व",
+  "option3": "उत्तर",
+  "option4": "दक्षिण",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "पूर्व",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d6ff156b3e44764b4bc"
+  },
+  "question": "महाभारत के युद्ध किस युद्ध के रूप में जाने जाते हैं?",
+  "option1": "कुरुक्षेत्र युद्ध",
+  "option2": "राम-रावण युद्ध",
+  "option3": "क्रिकेट युद्ध",
+  "option4": "पाण्डव-कौरव युद्ध",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "कुरुक्षेत्र युद्ध",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d7bf156b3e44764b4be"
+  },
+  "question": "किस धातु का सिंबोल 'Fe' है?",
+  "option1": "सोना",
+  "option2": "चाँदी",
+  "option3": "लोहा",
+  "option4": "चिकनी मिट्टी",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "लोहा",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d88f156b3e44764b4c0"
+  },
+  "question": "हमारे राष्ट्रपति का कार्यक्षेत्र क्या है?",
+  "option1": "लोकसभा",
+  "option2": "राज्यसभा",
+  "option3": "राष्ट्रपति भवन",
+  "option4": "राष्ट्रपति",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "राष्ट्रपति",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9d93f156b3e44764b4c2"
+  },
+  "question": "मानव शरीर में कितनी हड्डियाँ होती हैं?",
+  "option1": "206",
+  "option2": "156",
+  "option3": "106",
+  "option4": "306",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "206",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9da0f156b3e44764b4c4"
+  },
+  "question": "भारतीय फिल्म इंडस्ट्री को क्या कहा जाता है?",
+  "option1": "Hollywood",
+  "option2": "Bollywood",
+  "option3": "Tollywood",
+  "option4": "Kollywood",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "Bollywood",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9dacf156b3e44764b4c6"
+  },
+  "question": "कौन सा महाद्वीप दुनिया का सबसे बड़ा है?",
+  "option1": "एशिया",
+  "option2": "अफ्रीका",
+  "option3": "उत्तर अमेरिका",
+  "option4": "यूरोप",
+  "difficulty": "easy",
+  "languageType": "hindi",
+  "correctAnswer": "एशिया",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9df1f156b3e44764b4c8"
+  },
+  "question": "Quel est le capitale de la France?",
+  "option1": "Berlin",
+  "option2": "Londres",
+  "option3": "Paris",
+  "option4": "Rome",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "Paris",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9dfcf156b3e44764b4ca"
+  },
+  "question": "Quelle est la couleur du ciel par temps clair?",
+  "option1": "Vert",
+  "option2": "Rouge",
+  "option3": "Bleu",
+  "option4": "Jaune",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "Bleu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e09f156b3e44764b4cc"
+  },
+  "question": "Qui a écrit 'Les Misérables'?",
+  "option1": "Victor Hugo",
+  "option2": "Alexandre Dumas",
+  "option3": "Gustave Flaubert",
+  "option4": "Émile Zola",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "Victor Hugo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e17f156b3e44764b4ce"
+  },
+  "question": "Quelle est la monnaie utilisée en France?",
+  "option1": "Euro",
+  "option2": "Dollar",
+  "option3": "Livre",
+  "option4": "Franc",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "Euro",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e24f156b3e44764b4d0"
+  },
+  "question": "Quel est le nom de la plus grande rivière de France?",
+  "option1": "Seine",
+  "option2": "Loire",
+  "option3": "Rhin",
+  "option4": "Garonne",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "Loire",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e31f156b3e44764b4d2"
+  },
+  "question": "Combien de jours y a-t-il dans une année bissextile?",
+  "option1": "365",
+  "option2": "366",
+  "option3": "364",
+  "option4": "367",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "366",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e3ef156b3e44764b4d4"
+  },
+  "question": "Quel est le plus haut sommet des Alpes?",
+  "option1": "Mont Cervin",
+  "option2": "Mont Rose",
+  "option3": "Mont Blanc",
+  "option4": "Mont McKinley",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "Mont Blanc",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e4bf156b3e44764b4d6"
+  },
+  "question": "Quelle est la devise de la République française?",
+  "option1": "Liberté, égalité, fraternité",
+  "option2": "Vive la France",
+  "option3": "Amour et paix",
+  "option4": "Justice pour tous",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "Liberté, égalité, fraternité",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e56f156b3e44764b4d8"
+  },
+  "question": "Quel océan borde la côte ouest de la France?",
+  "option1": "Océan Pacifique",
+  "option2": "Océan Indien",
+  "option3": "Océan Atlantique",
+  "option4": "Océan Arctique",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "Océan Atlantique",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae9e60f156b3e44764b4da"
+  },
+  "question": "Qui a peint 'La Joconde'?",
+  "option1": "Vincent van Gogh",
+  "option2": "Pablo Picasso",
+  "option3": "Leonardo da Vinci",
+  "option4": "Claude Monet",
+  "difficulty": "easy",
+  "languageType": "french",
+  "correctAnswer": "Leonardo da Vinci",
+  "__v": 0
+}]

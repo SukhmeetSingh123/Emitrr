@@ -1,9 +1,9 @@
 # dependencies
 /node_modules
+/server/node_modules
 /.pnp
 .pnp.js
-./server/node_modules
-
+./
 # Logs
 logs
 *.log
